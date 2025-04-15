@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Javier Peregrina</h1>
+<h1 align="center">Hola👋, me llamo Javier Perez Peregrina</h1>
 <h3 align="center">Un apasioando en general de la tecnologia</h3>
 
-- 💬 Ask me about **redes, python, nube, servidores y computadoras**
+- 💬 Preguntame **redes, python, nube, servidores y computadoras**
 
-- 📫 How to reach me **javierpperegrina@gmail.com**
+- 📫 Me puedes mandar mensaje por aqui **javierpperegrina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
